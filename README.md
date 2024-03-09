@@ -21,7 +21,7 @@ Welcome to the world of innovation, where robots come alive and technology meets
 ## 🌟 Let's get Connected!
 
 🔗 LinkedIn: [Sandeeb Shyam](https://www.linkedin.com/in/sandeeb-shyam-santhamani-senthilkumar/)  
-💼 GitHub: [YourGitHubUsername](https://github.com/SandeebShyam)
+💼 GitHub: [SandeebShyam](https://github.com/SandeebShyam)
 
 Embark on this journey with me, as we unravel the mysteries of robotics and shape the future with innovation! 🌌✨
 
