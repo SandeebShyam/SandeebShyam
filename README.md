@@ -25,4 +25,4 @@ Welcome to the world of innovation, where robots come alive and technology meets
 
 Embark on this journey with me, as we unravel the mysteries of robotics and shape the future with innovation! 🌌✨
 
-![1](https://github.com/SandeebShyam/SandeebShyam/assets/93623711/ea889265-b4dd-4860-b89a-c7857d6cb5c1)
+![2](https://github.com/SandeebShyam/SandeebShyam/assets/93623711/c4d884fe-6a1c-49b0-8a10-2b9e0f495422)
