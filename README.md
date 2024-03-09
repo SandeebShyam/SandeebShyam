@@ -12,11 +12,11 @@ Welcome to the world of innovation, where robots come alive and technology meets
 
 ## 🛠️ Tools & Technologies
 
-- ABB Robotstudio![ABBRoboticslogo](https://github.com/SandeebShyam/SandeebShyam/assets/93623711/2bd46673-55c3-4bdc-ad9a-ca79d13ead61)
-- [Designer Altium]
-- [AutoCAD]
-- [PLC]
-- [Protetus]
+- ABB Robotstudio
+- Designer Altium
+- AutoCAD
+- PLC
+- Protetus
 
 ## 🌟 Let's get Connected!
 
@@ -25,5 +25,4 @@ Welcome to the world of innovation, where robots come alive and technology meets
 
 Embark on this journey with me, as we unravel the mysteries of robotics and shape the future with innovation! 🌌✨
 
-![Robotics Image]
-![Automation Image]()
+![1](https://github.com/SandeebShyam/SandeebShyam/assets/93623711/ea889265-b4dd-4860-b89a-c7857d6cb5c1)
