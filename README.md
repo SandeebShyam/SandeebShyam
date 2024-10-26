@@ -5,8 +5,8 @@ Welcome to the world of innovation, where robots come alive and technology meets
 ## 🚀 Experience & Expertise
 
 - 🤖 My journey in robotics is a tapestry of awe-inspiring projects ranging from Walking Biped robots to Robotic Arms, Kinematics robots, and beyond.
-- 💻 I speak the language of C, C++, and MATLAB , using them as tools to sculpt my engineering dreams into reality.
-- 🎨 With design prowess fueled by AutoCAD, Shapr3D, and 3D Printing, I craft intricate models that bridge imagination and future engineering.
+- 💻 I speak the language of C, Python, and MATLAB , using them as tools to sculpt my engineering dreams into reality.
+- 🎨 With design prowess fueled by Solidworks, AutoCAD, Shapr3D, and 3D Printing, I craft intricate models that bridge imagination and future engineering.
 - 🏆 Throughout my academic career, I've created a lot of projects , automation and simulations.
 - 🤖 Fueling my passion further, I'm diving deeper into the realms of Robotics and Automation, eager to unlock new realms of future robotics.
 
@@ -15,7 +15,7 @@ Welcome to the world of innovation, where robots come alive and technology meets
 - ABB Robotstudio
 - Designer Altium
 - AutoCAD
-- PLC
+- Solidworks
 - Protetus
 
 ## 🌟 Let's get Connected!
